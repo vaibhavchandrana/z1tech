@@ -1,0 +1,1 @@
+export const backendUrl = "https://api.thecatapi.com/v1";
